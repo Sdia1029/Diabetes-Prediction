@@ -112,11 +112,14 @@ http://127.0.0.1:5000/
 
 ### 🏠 Home Page
 
-(Add screenshot here)
+<img width="964" height="556" alt="image" src="https://github.com/user-attachments/assets/127f699e-e7cc-4430-a841-6562a34fdee7" />
+<img width="959" height="196" alt="image" src="https://github.com/user-attachments/assets/ca3eb60e-6587-4e6a-886b-40946c3a7346" />
+
 
 ### 📊 Result Page
 
-(Add screenshot here)
+<img width="950" height="539" alt="image" src="https://github.com/user-attachments/assets/42162bd1-f500-4f39-adec-5c353d6be476" />
+
 
 ---
 
